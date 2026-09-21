@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0-b13",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b13/BYDSignalAlert-V1_0-phase2-AI.apk",
-  "size": 16257332,
-  "notes": "แก้อ่านความเร็ว ADB: ปรับการตรวจสิทธิ์ภายใน SDK เฉพาะ speed; หลังอัปเดตกดเชื่อม ADB ใหม่ แล้วตรวจ speed (car-adb); รวมการแก้ b12"
+  "versionCode": 47,
+  "versionName": "1.0-b15",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b15/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "size": 16261428,
+  "notes": "LVDA เฉพาะ D=4; P/R/N หรือเกียร์ขาดหายหยุดเฝ้ารอและล้างเตือน; รวมระยะเพิ่มประมาณ 25% และกระพริบเร็ว 3 เท่า"
 }
