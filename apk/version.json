@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0-b1",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b1/BYDSignalAlert-V1_0-phase2-AI.apk",
-  "size": 37716204,
-  "notes": "build 1"
+  "versionCode": 44,
+  "versionName": "1.0-b12",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b12/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "size": 16253236,
+  "notes": "LVDA ไม่แสดงกรอบเมื่อปิดไฟเลี้ยว; ไอคอนแดง=พร้อมรอ เขียว=รถหน้าออกตัว; เพิ่มเสียงเตือน; คงกล้อง AVM"
 }
