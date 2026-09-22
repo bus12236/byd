@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0-b17",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b17/BYDSignalAlert-V1_0-phase2-AI.apk",
-  "size": 16269620,
-  "notes": "แก้ YOLO ใช้ภาพ PIP ฝั่งเดียวกับไฟเลี้ยว รวมกลับด้าน/ครอปและโหมดมุมกว้าง; เปลี่ยนฝั่งหรือปิดไฟเลี้ยวล้างเตือน; ภาพค้างเกิน 1.5 วินาทีดับกรอบ; คง LVDA เฉพาะ D"
+  "versionCode": 50,
+  "versionName": "1.0-b18",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b18/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "size": 16273716,
+  "notes": "แก้กรอบจุดบอดดับเป็นพัก ๆ: นับเฟรมที่รับและแสดงจริงแทน timestamp กล้อง; ลดการดับใกล้เกณฑ์ขนาดรถ; เพิ่ม debug แยกภาพค้างและประมวลผลช้า; คง LVDA เฉพาะ D"
 }
