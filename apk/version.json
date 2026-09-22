@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0-b18",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b18/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "versionCode": 51,
+  "versionName": "1.0-b19",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b19/BYDSignalAlert-V1_0-phase2-AI.apk",
   "size": 16273716,
-  "notes": "แก้กรอบจุดบอดดับเป็นพัก ๆ: นับเฟรมที่รับและแสดงจริงแทน timestamp กล้อง; ลดการดับใกล้เกณฑ์ขนาดรถ; เพิ่ม debug แยกภาพค้างและประมวลผลช้า; คง LVDA เฉพาะ D"
+  "notes": "แก้กรอบจุดบอดข้าง (กล้อง) ให้ขึ้นจริงเมื่อมีรถ; เพิ่มอ่านค่า BSD จุดบอดโรงงาน โชว์ bsd (raw) ในหน้า debug; คง LVDA เฉพาะเกียร์ D"
 }
