@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0-b20",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b20/BYDSignalAlert-V1_0-phase2-AI.apk",
-  "size": 16273716,
-  "notes": "build 20: camera + BSD (blind-spot) AND-fusion \u2014 red alert now requires BOTH the camera detecting a close vehicle on the signalled side AND the car's own blind-spot sensor (BSD) confirming an occupant, plus the earlier fix for the border never appearing (removed an inference-latency staleness check that was discarding valid detections)."
+  "versionCode": 53,
+  "versionName": "1.0-b21",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b21/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "size": 16277812,
+  "notes": "build 21: side alert now fires when the camera sees ANY car/motorcycle on the signalled side AND the car's BSD light is on (no minimum size, catches fast-passing traffic); floating LVDA icon: double-tap to show speed; icon opacity slider in settings."
 }
