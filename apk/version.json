@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0-b23",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b23/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "versionCode": 57,
+  "versionName": "1.0-b25",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b25/BYDSignalAlert-V1_0-phase2-AI.apk",
   "size": 16281908,
-  "notes": "ลดเตือนผิด: ยืนยันรถ 2 ภาพ ตัดรถเล็กมาก ล้างผลเก่า/รถหาย/BSD ดับ; ลดภาระ AI และข้ามแปลงภาพ LVDA เมื่อกำลังตรวจ; ยกเลิกกดค้างเปิดกรอบเอง"
+  "notes": "ดีบักกล้องข้าง: แสดงรูปเล็กที่ AI ได้รับจริงพร้อมกรอบ (เขียว=นับ, เหลือง=ถูกกรองทิ้ง) และบรรทัด img L/sd (ความสว่าง/รายละเอียดภาพ) + top (คะแนนสูงสุดของ AI) ใต้บรรทัด side: ในหน้า debug"
 }
