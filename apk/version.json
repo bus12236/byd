@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0-b22",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b22/BYDSignalAlert-V1_0-phase2-AI.apk",
-  "size": 16277812,
-  "notes": "build 22: side camera catches partial/side-on cars better (confidence 0.45 -> 0.25, still needs BSD light), 4 CPU threads for faster detection, vehicles only (people ignored); debug side line shows AI score and inference time."
+  "versionCode": 55,
+  "versionName": "1.0-b23",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b23/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "size": 16281908,
+  "notes": "ลดเตือนผิด: ยืนยันรถ 2 ภาพ ตัดรถเล็กมาก ล้างผลเก่า/รถหาย/BSD ดับ; ลดภาระ AI และข้ามแปลงภาพ LVDA เมื่อกำลังตรวจ; ยกเลิกกดค้างเปิดกรอบเอง"
 }
