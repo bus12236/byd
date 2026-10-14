@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0-b25",
-  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b25/BYDSignalAlert-V1_0-phase2-AI.apk",
+  "versionCode": 58,
+  "versionName": "1.0-b26",
+  "url": "https://github.com/bus12236/byd/releases/download/v1.0-b26/BYDSignalAlert-V1_0-phase2-AI.apk",
   "size": 16281908,
-  "notes": "ดีบักกล้องข้าง: แสดงรูปเล็กที่ AI ได้รับจริงพร้อมกรอบ (เขียว=นับ, เหลือง=ถูกกรองทิ้ง) และบรรทัด img L/sd (ความสว่าง/รายละเอียดภาพ) + top (คะแนนสูงสุดของ AI) ใต้บรรทัด side: ในหน้า debug"
+  "notes": "กล้องข้างเร็วขึ้น: เห็นรถ 1 ภาพ + ไฟ BSD = เตือนทันที, ลดเกณฑ์ขนาดรถ (4%/3%), AI เริ่มตรวจตั้งแต่เปิดไฟเลี้ยวเมื่อวิ่ง ≥10 km/h (จอดอยู่จะพักจนกว่าไฟ BSD ติด), ใช้ 4 core ความสำคัญปกติ"
 }
